@@ -6,6 +6,9 @@ Microprocessor-based temperature monitoring system using the AT89C52 microcontro
 
 This project implements a temperature monitoring system using the **AT89C52** microcontroller. The system reads temperature data using an **LM35 sensor**, processes it via an **ADC**, and displays the results on an **LCD**. It also controls motors based on temperature thresholds.
 
+![ThermoLCD Control System](https://github.com/user-attachments/assets/2da57ce8-5cfe-4609-b557-b4be49e168cb)
+
+
 ---
 
 ## Features
